@@ -82,9 +82,8 @@
 
 ## 🐍 Snake Game Contribution Graph
 
-<p align="center">
-  <img src="https://github.com/AryanElahi/AryanElahi/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+![image](https://github.com/user-attachments/assets/45908c2a-e502-4b64-909d-9a8eb62a9439)
+
 
 ---
 

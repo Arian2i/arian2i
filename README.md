@@ -81,6 +81,9 @@
 ---
 
 ## 🐍 Snake Game Contribution Graph
+<p align="center">
+  <img src="https://github.com/Arian2i/arian2i/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ---
 

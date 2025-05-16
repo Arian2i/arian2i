@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Arian Azarnoushe</h1>
+<h1 align="center">Hi 👋, I'm Arian Azarnioshe</h1>
 <h3 align="center">Software Engineer | DevOps Enthusiast | Linux user | Security Learner | Django Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Computer+Engineering+Student;Django+Backend+Developer;DevOps+Explorer;Cybersecurity+Enthusiast;Future+MSc+AI+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Computer+Engineering+Student;Linux;Django+Backend+Developer;DevOps+Explorer;Cybersecurity+Enthusiast;Future+MSc+AI+Student" />
 </p>
 
 ---

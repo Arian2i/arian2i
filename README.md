@@ -33,16 +33,6 @@
 - 🧠 Data Structures, Algorithms, and Competitive Programming
 ---
 
-## 🚧 Side Projects
-
-| 💡 Project | ⚙️ Description | 🔧 Stack |
-|-----------|----------------|-----------|
-| **University Management System** | Full-featured student/professor management with authentication & role control | Django, DRF, PostgreSQL, JWT |
-| **Hotel Booking CLI App** | Room management, wallet, booking logic, CLI-based | Python, OOP, JSON |
-| **Smart Notebook API** | RESTful notes app with search, tagging, and UI integration | Django, DRF, HTML/CSS/JS |
-
---- 
-
 ## 📊 GitHub Stats
 
 <p align="center">
